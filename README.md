@@ -39,7 +39,7 @@ pip install pynput
 
 ```bash
 # Clone or download the script
-git clone https://github.com/yourname/instant-replay
+git clone https://github.com/prefixedd/instant-replay
 cd instant-replay
 
 # Install dependencies
